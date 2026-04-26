@@ -29,7 +29,7 @@ $cfg['Servers'][$i]['auth_type'] = 'cookie';
 /* Server parameters */
 $cfg['Servers'][$i]['host'] = 'localhost';
 $cfg['Servers'][$i]['compress'] = false;
-$cfg['Servers'][$i]['AllowNoPassword'] ='1234';
+$cfg['Servers'][$i]['';
 
 /**
  * phpMyAdmin configuration storage settings.
